@@ -71,7 +71,7 @@ This modular architecture allows SIM-PIPE to provide a robust, flexible, and pro
 
 |What (types)|How(Process)|Values|
 |-----|--------------------|--------------|
-| Pipeline profiling effectiveness | User can test and profile pipelines, identify bottlenecks, and optimize resources | At least 50% reduction in resource consumption and error-free deployment |
+| Data/AI pipelines profiling and compliance evaluation | Questionnaire about Usability/Ease of Use - Brooke, J. (1996). SUS-A quick and dirty usability scale. Usability evaluation in industry, 189(194), 4-7. | The tool should achieve a mean SUS score of at least 80 across 20 participants, with no more than 20% of individual scores falling below 70 |
 
 ## **Related Project Links**
 
